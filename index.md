@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# JavaScript Graphs
+A couple of graphs I made for the visualisation module of my Computer Science Bachelor's.
 
-You can use the [editor on GitHub](https://github.com/Joe-V2/JavaScript-Graphs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+There's an interactive radar chart to demonstrate the numbers of beds per hospital, and a LHOC-graph tracking the values of a stock market graph contained within a CSV file.
+Both graphs use D3.js to do everything, and I used a few libraries to get the job done - modifying the data as I went.
+More information about how they work and what I used is contained within the scripts themselves, but for now...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Click here to view the Radar Chart!](<joe-v2.github.io/JavaScript-Graphs/Radar Files/radar.htm>)  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joe-V2/JavaScript-Graphs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Click here to view the LHOC graph!](<joe-v2.github.io/JavaScript-Graphs/Box Plot Files/index.htm>)
